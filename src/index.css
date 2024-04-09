@@ -1,3 +1,7 @@
+body{
+    background-color: antiquewhite;
+}
+
 .logo {
     display: block;
     margin: 30px auto;
